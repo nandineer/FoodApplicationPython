@@ -1,0 +1,26 @@
+[
+   {
+      "id": 1,
+      "name":"KFC",
+      "cuisine":"Burger",
+      "rating":3.4
+   },
+   {
+      "id": 2,
+      "name":"Pizza Hut",
+      "cuisine":"Pizza",
+      "rating":3.7
+   },
+   {
+      "id": 3,
+      "name":"Student Briyani",
+      "cuisine":"Briyani",
+      "rating":3.3
+   },
+   {
+      "id": 4,
+      "name":"Juices and Corner",
+      "cuisine":"Juices and Icecreams",
+      "rating":3.3
+   }
+]

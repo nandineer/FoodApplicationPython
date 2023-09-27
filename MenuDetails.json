@@ -1,0 +1,18 @@
+{
+    "KFC": {
+        "Chicken Burger": 5.99,
+        "Fried Chicken": 2.49,
+        "Soda": 1.49
+    },
+    "Pizza Hut": {
+        "Margherita Pizza": 8.99,
+        "Pepperoni Pizza": 9.99,
+        "Garlic Bread": 3.99,
+        "Soda": 1.50
+    },
+    "Student Briyani": {
+        "Chicken Briyani": 15.99,
+        "Mutton Briyani": 17.99,
+        "Vegetable Briyani": 16.99
+    }
+}
